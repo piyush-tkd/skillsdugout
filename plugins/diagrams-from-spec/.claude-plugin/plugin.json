@@ -1,0 +1,7 @@
+{
+  "name": "diagrams-from-spec",
+  "version": "0.1.0",
+  "description": "House rules for generating architecture and flow diagrams from a committed spec with Archify, and embedding them in docs.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

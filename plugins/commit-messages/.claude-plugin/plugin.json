@@ -1,0 +1,7 @@
+{
+  "name": "commit-messages",
+  "version": "0.1.0",
+  "description": "Writes Conventional Commits messages and matching branch names that say what is now true, with a ticket or area scope.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

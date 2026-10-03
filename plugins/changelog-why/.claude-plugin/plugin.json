@@ -1,0 +1,7 @@
+{
+  "name": "changelog-why",
+  "version": "0.1.0",
+  "description": "Writes changelog entries that say what changed for the reader and why it matters, without invented claims.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

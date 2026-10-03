@@ -1,0 +1,7 @@
+{
+  "name": "bug-ticket",
+  "version": "0.1.0",
+  "description": "Turns a bug into a self-contained ticket developers can build from and QA can sign off against, with every claim labelled by how it is known.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

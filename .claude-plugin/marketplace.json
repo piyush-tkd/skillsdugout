@@ -15,6 +15,41 @@
       "name": "comment-hygiene",
       "source": "./plugins/comment-hygiene",
       "description": "Keeps code comments brief, factual and self-contained; removes stale claims, cross-references and AI conversation residue without changing behavior."
+    },
+    {
+      "name": "analyse-parallel-bugs",
+      "source": "./plugins/analyse-parallel-bugs",
+      "description": "Triages several reported problems at once: finds how many real causes there are, verifies each, and orders them by consequence."
+    },
+    {
+      "name": "bug-ticket",
+      "source": "./plugins/bug-ticket",
+      "description": "Turns a bug into a self-contained ticket developers can build from and QA can sign off against, with every claim labelled by how it is known."
+    },
+    {
+      "name": "test-scenarios",
+      "source": "./plugins/test-scenarios",
+      "description": "Writes short, runnable test scenarios in plain business words, each with setup, action, expected result and status."
+    },
+    {
+      "name": "commit-messages",
+      "source": "./plugins/commit-messages",
+      "description": "Writes Conventional Commits messages and matching branch names that say what is now true, with a ticket or area scope."
+    },
+    {
+      "name": "project-memory",
+      "source": "./plugins/project-memory",
+      "description": "Puts each CLAUDE.md note in the deepest file it applies to, so project memory stays short and accurate."
+    },
+    {
+      "name": "diagrams-from-spec",
+      "source": "./plugins/diagrams-from-spec",
+      "description": "House rules for generating architecture and flow diagrams from a committed spec with Archify, and embedding them in docs."
+    },
+    {
+      "name": "changelog-why",
+      "source": "./plugins/changelog-why",
+      "description": "Writes changelog entries that say what changed for the reader and why it matters, without invented claims."
     }
   ]
 }

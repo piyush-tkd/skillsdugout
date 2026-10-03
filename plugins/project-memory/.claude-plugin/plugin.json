@@ -1,0 +1,7 @@
+{
+  "name": "project-memory",
+  "version": "0.1.0",
+  "description": "Puts each CLAUDE.md note in the deepest file it applies to, so project memory stays short and accurate.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

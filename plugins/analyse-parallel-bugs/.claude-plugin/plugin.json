@@ -1,0 +1,7 @@
+{
+  "name": "analyse-parallel-bugs",
+  "version": "0.1.0",
+  "description": "Triages several reported problems at once: finds how many real causes there are, verifies each, and orders them by consequence.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}

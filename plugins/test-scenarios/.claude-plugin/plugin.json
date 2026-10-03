@@ -1,0 +1,7 @@
+{
+  "name": "test-scenarios",
+  "version": "0.1.0",
+  "description": "Writes short, runnable test scenarios in plain business words, each with setup, action, expected result and status.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}
