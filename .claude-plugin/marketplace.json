@@ -1,0 +1,12 @@
+{
+  "name": "skillsdugout",
+  "description": "Curated Claude skills, ready to be called in. By Hundred Tons.",
+  "owner": { "name": "Piyush Baheti", "url": "https://skillsdugout.ai" },
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./plugins/handoff",
+      "description": "Writes a compact handoff file so the next session continues without re-explaining."
+    }
+  ]
+}

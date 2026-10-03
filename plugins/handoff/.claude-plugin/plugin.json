@@ -1,0 +1,7 @@
+{
+  "name": "handoff",
+  "version": "0.1.0",
+  "description": "Writes a compact handoff file so the next session continues without re-explaining.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}
