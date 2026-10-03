@@ -1,0 +1,7 @@
+{
+  "name": "comment-hygiene",
+  "version": "0.1.0",
+  "description": "Keeps code comments brief, factual and self-contained; removes stale claims, cross-references and AI conversation residue without changing behavior.",
+  "author": { "name": "Piyush Baheti" },
+  "license": "MIT"
+}
