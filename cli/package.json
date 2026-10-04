@@ -1,0 +1,15 @@
+{
+  "name": "skillsdugout",
+  "version": "0.1.0",
+  "description": "Install Skills Dugout skills into Claude Code, Cursor, Codex or GitHub Copilot with one command.",
+  "keywords": ["claude", "claude-code", "skills", "agent-skills", "cursor", "codex", "copilot", "ai"],
+  "homepage": "https://www.skillsdugout.ai",
+  "repository": { "type": "git", "url": "git+https://github.com/piyush-tkd/skillsdugout.git", "directory": "cli" },
+  "bugs": "https://github.com/piyush-tkd/skillsdugout/issues",
+  "license": "MIT",
+  "author": "Piyush Baheti",
+  "type": "module",
+  "bin": { "skillsdugout": "bin/skillsdugout.mjs" },
+  "files": ["bin", "README.md"],
+  "engines": { "node": ">=18" }
+}

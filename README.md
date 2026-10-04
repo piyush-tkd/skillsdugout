@@ -9,6 +9,15 @@ Curated Claude skills, ready to be called in.
 /plugin install handoff@skillsdugout
 ```
 
+## Install (Cursor, Codex, GitHub Copilot, or Claude Code without plugins)
+
+```
+npx skillsdugout list
+npx skillsdugout add handoff --app cursor
+```
+
+See [`cli/`](cli/) for options.
+
 ## Roster
 
 | Skill | What it does |
